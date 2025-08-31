@@ -2,8 +2,8 @@
 ## Name: Abhishek Saha
 ## Roll : 23ME10001
 
-Using conda
-# Create a new conda environment named 'img_env' with Python 3.10
+
+### Create a new conda environment named 'img_env' with Python 3.10
 
 ```python
 conda create -n img_env python=3.10
@@ -12,7 +12,7 @@ conda create -n img_env python=3.10
 conda activate img_env
 ```
 
-2. Install Required Packages
+### Install Required Packages
 
 Install the necessary Python packages using pip:
 ```python
